@@ -1,6 +1,6 @@
 # Saday-Sadev
 
-Web portal to onnect mental health professionals and clients, where clients can also book sessions with preferred doctors and also track them, users can also buy mental health products listed on page.
+Web portal to connect mental health professionals and clients, where clients can also book sessions with preferred doctors and also track them, users can also buy mental health products listed on page.
 
 Since the code is not accesible for me and my team mates, I have added pictures of it.
 
